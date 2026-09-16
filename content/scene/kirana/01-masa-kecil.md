@@ -117,7 +117,7 @@ Kirana menggeleng pelan, air matanya mulai menetes membasahi pipi. "Ia... ia tid
 
 "Perhatikan. Perhatikan lagi," pinta Kawanda, membiarkan putrinya benar-benar meresapi konsekuensi dari perbuatannya.
 
-Tangan kecil Kirana mulai gemetar, tak hanya karena beratnya rasa bersalah, tapi juga mulai pegal. "Ayah... Maaf... Aku... tanganku lelah."
+Tangan kecilnya mulai gemetar. "Ayah... Maaf... Aku... tanganku lelah."
 
 "Jangan minta maaf ke Ayah," sela Kawanda. "Lihat anak ayam itu, dan tanganmu yang saat ini menopangnya. Apa yang akan kau lakukan, Kirana?"
 
