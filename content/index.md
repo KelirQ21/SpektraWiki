@@ -13,29 +13,24 @@ Ini bukan wiki yang sudah jadi. Ini catatan yang tumbuh bareng penulisnya.
 
 Karena worldbuilding-nya kebanyakan, kita mulai dari satu orang dulu.
 
-**[[char/kirana|Kirana Larasati]]** — 26 tahun, Sang Dalang. Anak petani dari desa terpencil yang tidak tercatat di peta. Murid Ki Seno. Murid Valu Eria.
+**[[char/kirana|Kirana Larasati]]** — 26 tahun, Sang Dalang. Anak petani dari desa terpencil yang tidak tercatat di peta. Murid Ki Seno.
 
 > "Aku tidak melakukan ini karena aku kuat. Aku melakukan ini karena aku ingat rasanya tidak ada yang melindungimu."
 
-### Prosa Awal — Masa Lalu Kirana
+### Prosa
 
-- [[scene/masa-lalu-kirana|Masa Lalu Kirana — Draft Lengkap]] — dari ladang, sungai, bintang, sampai pemakaman dan kupu-kupu kelopak
+- [[scene/masa-lalu-kirana|Masa Lalu Kirana]] — dari ladang, sungai, bintang, sampai pemakaman dan kupu-kupu kelopak
 - [[scene/kirana-masa-kecil|Kirana Masa Kecil]] — Matahari dan Bulan, Anak Ayam, Niat dan Cara, Cipi
 
-### Dossier Seadanya
+### Dossier
 
-- [[char/kirana|Kirana Larasati]] — versi publik tanpa CLASSIFIED
-- [[char/valu|Valu Eria]] — versi publik tipis, hanya Professor
+- [[char/kirana|Kirana Larasati]] — Sang Dalang
+- [[char/valu|Valu Eria]] — Professor, Sanggar Timur
 
 ### Prinsip Arsip
 
-- **Peristiwa tetap, penjelasan tidak absolut.** Kontradiksi antar kerangka aproksimasi = fitur dunia.
-- **File spoiler tidak ada di repo publik sampai arc-nya terbit.** `draft: true` hanya nahan build, bukan sumbernya — jadi file CLASSIFIED tetap di repo privat `spektra-universe`.
+- **Peristiwa tetap, penjelasan tidak absolut.** Kontradiksi antar kerangka aproksimasi adalah fitur dunia, bukan cacat.
 - **Suara:** `char/` ditulis oleh H.A., `scene/` ditulis oleh tokoh.
+- Catatan ditambahkan seiring arc yang bersangkutan terbit.
 
 > **Terkait:** [[char/kirana|Kirana]] · [[institusi/sanggar-timur|Sanggar Timur]]
-
----
-
-*Repo privat: `KelirQ21/spektra-universe` — source of truth*
-*Repo publik: `spektra-wiki` — Quartz — hanya yang sudah boleh dibaca*

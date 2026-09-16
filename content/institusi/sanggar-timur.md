@@ -22,8 +22,6 @@ Sanggar Timur adalah institusi yang menampung, mengajar, dan mengawasi entitas d
 - Pelatihan Dalang dan Penenun
 - Misi lapangan perlindungan sipil
 
-## Catatan Publikasi
 
-Versi publik ini tidak memuat pusaka suci, sistem Sengkala internal, atau catatan pengadilan tertutup. Itu masuk kategori "paling akhir" di jadwal publikasi wiki `timeline.md` L216.
 
 > Dokumen ini ditulis oleh H.A. — entitas penulis seluruh dossier. Tidak pernah tampil, tidak pernah dipertanyakan.
