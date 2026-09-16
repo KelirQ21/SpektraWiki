@@ -5,7 +5,7 @@ description: Sang Penenun — Professor 160cm dari NTT
 draft: false
 ---
 
-> **Terkait:** [[char/kirana|Kirana Larasati]] · [[institusi/sanggar-timur|Sanggar Timur]]
+> **Terkait:** [[char/kirana|Kirana Larasati]] · [[institusi/sanggar-timur|Sanggar Timur]] · [[Sapta Wara]]
 
 # Valu Eria
 
@@ -58,6 +58,4 @@ Menjambak rambut sendiri saat berpikir keras. Bicara tajam, presisi, akademis �
 
 ## Catatan Arsip H.A.
 
-> Versi publik. Blok CLASSIFIED tentang Project Omega, FINI, Insiden Kampung Halaman, dan ritual ditahan sesuai `canon/timeline.md` L203-L217. File ini hanya berisi data yang boleh diketahui murid baru Sanggar Timur.
-
-*Theme Song: [[OUT THE ROOF - Chase Atlantic]](https://www.youtube.com/watch?v=Z3BXTHZGOZc)*
+> CLASSIFIED tentang Project Omega, FINI, Insiden Kampung Halaman, dan ritual ditahan sesuai dengan panduan Buku Merah.

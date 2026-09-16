@@ -1,7 +1,10 @@
 ---
 title: Kirana Larasati
-tags: [char, sanggar-timur, mc]
-description: Sang Dalang - Murid Sanggar Timur yang memilih melindungi
+tags:
+  - char
+  - sanggar-timur
+  - mc
+description: " Anak petani biasa, dengan takdir besar. Mengungkapkan misteri dunia dan jalannya."
 draft: false
 ---
 
