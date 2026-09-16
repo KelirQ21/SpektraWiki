@@ -14,7 +14,7 @@ draft: false
 
 *“Selama ada yang perlu dilindungi, aku akan di sini.”*
 
-**Sang Dalang / Ratu Kelir.** 26 tahun. Murid Sanggar Timur, pelindung lapangan.
+26 tahun. Murid Sanggar Timur, pelindung lapangan.
 
 ## Identitas Dasar
 
@@ -25,7 +25,7 @@ draft: false
 | **Usia** | 26 tahun — 15 saat ayah meninggal |
 | **Asal** | Desa terpencil, Jawa Tengah |
 | **Afiliasi** | Sanggar Timur |
-| **Klasifikasi** | Sang Dalang |
+| **Klasifikasi** | Praxion — Sasmita |
 | **Guru** | Ki Seno |
 | **Peran** | Dalang, Pelindung Sipil |
 
