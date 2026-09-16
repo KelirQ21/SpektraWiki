@@ -65,5 +65,5 @@ Kelemahan kecil yang tidak ia sadari: ia menyerap orang terlalu dalam — cerita
 
 ## Motivasi
 
-Melindungi. Bukan karena kuat, tapi karena ingat rasanya tidak ada yang melindungi. Ingin ada yang indah, bahkan di tempat yang penuh kehilangan.
+Melindungi. Bukan karena kuat, tapi karena ingat rasanya tidak ada yang melindungi. Ingin menciptkan keindahan, bahkan di tempat yang penuh kehilangan.
 
