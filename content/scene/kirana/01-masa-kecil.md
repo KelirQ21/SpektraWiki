@@ -67,7 +67,7 @@ Kawanda tersenyum hangat. Ia berhenti sejenak, berusaha merangkai kata-kata agar
 
 "Haaa... Kenapa mereka mau lihat Kirana?" tanyanya dengan takjub.
 
-"Karena mereka pingin lihat, apakah di malam hari Kirana akan tidur bahagia. Dan ketika siang, matahari pinign lihat, apakah Kirana jadi anak yang baik."
+"Karena mereka pingin lihat, apakah di malam hari Kirana akan tidur bahagia. Dan ketika siang, matahari pingin lihat, apakah Kirana jadi anak yang baik."
 
 "Haaa..." Kirana bergumam pelan. "Tapi... kenapa mereka enggak sama-sama aja, Yah?"
 
@@ -121,7 +121,7 @@ Tangan kecil Kirana mulai gemetar, tak hanya karena beratnya rasa bersalah, tapi
 
 "Jangan minta maaf ke Ayah," sela Kawanda. "Lihat anak ayam itu, dan tanganmu yang saat ini menopangnya. Apa yang akan kau lakukan, Kirana?"
 
-Tanggis Kirana akhirnya meledak. Ia tak sanggup lagi menahan rasa bersalahnya. "Hiks... Ayammm... Maaf... Aku..." Ia meratapi anak ayam itu, rasa sakit terasa didadanya dan Ia mendongak, menatap ayahnya dengan pandangan memohon. "Ayahh... kumohon bantu akuuu... Aku ingin mengobatinya... hiks."
+Tangis Kirana akhirnya meledak. Ia tak sanggup lagi menahan rasa bersalahnya. "Hiks... Ayammm... Maaf... Aku..." Ia meratapi anak ayam itu, rasa sakit terasa didadanya dan Ia mendongak, menatap ayahnya dengan pandangan memohon. "Ayahh... kumohon bantu akuuu... Aku ingin mengobatinya... hiks."
 
 Melihat penyesalan tulus putrinya, Kawanda menopang kedua tangan kirana dibawahnya.
 "Kirana, kalau yang ditendang tadi itu Kirana... bagaimana rasanya?" tanya Kawanda lembut.
