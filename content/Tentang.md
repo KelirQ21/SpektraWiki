@@ -1,17 +1,17 @@
 **Apa itu Spektra Universe ?** 
-Dia adalah Dunia Dimana Kesadaran memahami Begitu dalam, Ia dapat mengubah jalur Realita.
+Dia adalah dunia dimana kesadaran memahami begitu dalam, Ia dapat mengubah jalur Realita.
 
 **Kenapa dibuat ?** 
-Kumpulan kisah berbagai karakter yang Memiliki ~~[dicoret]~~ Background berbeda. Latihan menulis prosa berbagai bentuk naratif, metode, Dan struktur.
+Kumpulan kisah berbagai karakter yang memiliki background berbeda. Latihan menulis prosa berbagai bentuk naratif, metode, dan struktur.
 
 **Siapa Kamu ?** 
-Aku adalah Apapun yang dibutuhkan untuk Dunia ini. Kaya Akan Setiap ide konsepnya. Entah itu Sains, Kepercayaan, Filsafat, Seni, dll. Ia adalah Refleksi Struktur Besar / nyata Didunia ini dapat menjadi bentuk Kecilnya. { Reflection Principle }.
+Aku adalah apapun yang dibutuhkan untuk dunia ini. Kaya akan setiap ide konsepnya. Entah itu Sains, Kepercayaan, Filsafat, Seni, dll. Ia adalah Refleksi Struktur Besar/nyata didunia ini dapat menjadi bentuk kecilnya. { Reflection Principle }.
 
 **Siapa tokoh Utamanya ?** 
-Kirana Saat saat ini adalah sorotan. yang lain mengikuti.
+Kirana saat ini adalah sorotan. yang lain mengikuti.
 
 **Nama anda ?** 
-Mereka memanggilku -> H.A atau A.H. Selain itu, Aku tidak terima.
+Mereka memanggilku -> H.A atau A.H. Selain itu, aku tidak terima.
 
 **Apa yang dibutuhkan Dunia ini ?** 
 Pemahaman.

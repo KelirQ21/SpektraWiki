@@ -2,7 +2,7 @@
 title: Spektra Universe
 tags: [home]
 ---
-
+S
 # Spektra Universe
 
 Di dunia ini, orang yang mengerti, merasakan, dan memahami bisa
