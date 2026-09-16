@@ -19,7 +19,6 @@ Karena worldbuilding-nya kebanyakan, kita mulai dari satu orang dulu.
 
 ### Prosa
 
-- [[scene/masa-lalu-kirana|Masa Lalu Kirana]] — dari ladang, sungai, bintang, sampai pemakaman dan kupu-kupu kelopak
 - [[scene/kirana-masa-kecil|Kirana Masa Kecil]] — Matahari dan Bulan, Anak Ayam, Niat dan Cara, Cipi
 
 ### Dossier
