@@ -1,5 +1,6 @@
 ---
 title: Masa Lalu Kirana Larasati
+draft: true
 tags: [scene, kirana, ki-seno]
 description: Dari ladang sampai kupu-kupu kelopak di pemakaman
 ---
