@@ -10,4 +10,8 @@ Universalitas Efek adalah fenomena di mana berbagai tradisi, sistem supranatural
 Ini adalah hukum payung di Spektra Universe. Semua sistem di dalam folder ini adalah manifestasi lokal dari satu Jalinan Asal yang sama.
 
 ## Daftar Sistem
-- [[ntt/teda-konwitu|Teda Konwitu — NTT]] (nanti)
+- **Teda Kawitu**, NTT
+- **Pedalangan**, Sanggar Timur
+- **Material Essence**, THE KEY
+- **AUREAMETRY**, Simetrion
+- **Hoshi no Ritsugaku** — 星の律学

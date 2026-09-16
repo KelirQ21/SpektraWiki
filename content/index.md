@@ -5,31 +5,28 @@ tags: [home]
 
 # Spektra Universe
 
-Archive hidup dari dunia Sengkala dan Hasthama.
+Di dunia ini, orang yang mengerti, merasakan, dan memahami bisa
+memanfaatkan hukum fundamental keberadaan untuk mengubah jalannya.
 
-Ini bukan wiki yang sudah jadi. Ini catatan yang tumbuh bareng penulisnya.
+Archive ini tumbuh bareng penulisnya. Belum jadi, dan memang tidak
+diniatkan selesai.
 
 ## Mulai dari sini
 
-Karena worldbuilding-nya kebanyakan, kita mulai dari satu orang dulu.
+> "Mataharinya tidur?"
 
-**[[char/kirana|Kirana Larasati]]** — 26 tahun, Sang Dalang. Anak petani dari desa terpencil yang tidak tercatat di peta. Murid Ki Seno.
+**[[01-masa-kecil|Kirana Masa Kecil]]** — seorang anak bertanya kenapa langit ganti-ganti. Ayahnya mematikan lampu.
 
-> "Aku tidak melakukan ini karena aku kuat. Aku melakukan ini karena aku ingat rasanya tidak ada yang melindungimu."
+Empat adegan: Matahari dan Bulan, Anak Ayam, Niat dan Cara, Cipi.
 
-### Prosa
+## Tokoh
 
-- [[scene/kirana-masa-kecil|Kirana Masa Kecil]] — Matahari dan Bulan, Anak Ayam, Niat dan Cara, Cipi
+- **[[char/kirana|Kirana Larasati]]** — Anak petani dari desa yang tidak tercatat di peta.
+- **[[char/valu|Valu Eria]]** — Professor. Percaya realitas adalah program dengan logika matematika.
 
-### Dossier
+## Dunia
 
-- [[char/kirana|Kirana Larasati]] — Sang Dalang
-- [[char/valu|Valu Eria]] — Professor, Sanggar Timur
+- **[[institusi/sanggar-timur|Sanggar Timur]]** — Tempat belajar untuk mendalang dan memiliki kekuatan sesuai dengan jiwa masing-masing. Mereka juga melindungi warga sipil dari distorsi dedemit dari berbagai skala. Salah satu institusi Praxion yang terbesar di Indonesia.
+---
 
-### Prinsip Arsip
-
-- **Peristiwa tetap, penjelasan tidak absolut.** Kontradiksi antar kerangka aproksimasi adalah fitur dunia, bukan cacat.
-- **Suara:** `char/` ditulis oleh H.A., `scene/` ditulis oleh tokoh.
-- Catatan ditambahkan seiring arc yang bersangkutan terbit.
-
-> **Terkait:** [[char/kirana|Kirana]] · [[institusi/sanggar-timur|Sanggar Timur]]
+*Catatan ditambahkan seiring arc yang bersangkutan terbit.*

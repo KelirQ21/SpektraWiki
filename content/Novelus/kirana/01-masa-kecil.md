@@ -1,15 +1,14 @@
 ---
 title: Kirana Masa Kecil
 tags:
-  - scene
+  - novelus
   - kirana
   - kawanda
 description: Matahari dan Bulan, Anak Ayam, Cipi
-Umur: 5 tahun
 draft: false
 ---
 
-Draf adegan. Kirana dan Kawanda.
+Adegan. Kirana dan Kawanda.
 
 ---
 
