@@ -8,7 +8,7 @@ description: " Anak petani biasa, dengan takdir besar. Mengungkapkan misteri dun
 draft: false
 ---
 
-> **Terkait:** [[valu|Valu Eria]] · [[ki-seno|Ki Seno]] · [[sanggar-timur|Sanggar Timur]]
+> **Terkait:** [[ki-seno|Ki Seno]] · [[sanggar-timur|Sanggar Timur]]
 
 # Kirana Larasati
 
@@ -27,7 +27,7 @@ draft: false
 | **Afiliasi** | Sanggar Timur |
 | **Klasifikasi** | Sang Dalang |
 | **Guru** | Ki Seno |
-| **Peran** | Dalang, Pelindung Sipil, Murid Valu Eria |
+| **Peran** | Dalang, Pelindung Sipil |
 
 > "Aku tidak melakukan ini karena aku kuat. Aku melakukan ini karena aku ingat rasanya tidak ada yang melindungimu."
 > — Kirana Larasati — setelah Misi Pertama
@@ -69,6 +69,4 @@ Kelemahan kecil yang tidak ia sadari: ia menyerap orang terlalu dalam — cerita
 
 Melindungi. Bukan karena kuat, tapi karena ingat rasanya tidak ada yang melindungi. Ingin ada yang indah, bahkan di tempat yang penuh kehilangan — seperti kupu-kupu dari kelopak di pemakaman ayahnya.
 
-## Catatan Arsip H.A.
 
-> Dokumen ini adalah versi publik. Blok CLASSIFIED ditahan sesuai jadwal publikasi wiki di `canon/timeline.md` L203-L220. Hubungan darah, ritual, dan mekanisme Adhikara tidak dimasukkan di fase awal.

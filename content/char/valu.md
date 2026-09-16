@@ -5,7 +5,7 @@ description: Sang Penenun — Professor 160cm dari NTT
 draft: false
 ---
 
-> **Terkait:** [[char/kirana|Kirana Larasati]] · [[institusi/sanggar-timur|Sanggar Timur]] · [[Sapta Wara]]
+> **Terkait:** [[institusi/sanggar-timur|Sanggar Timur]] · [[Sapta Wara]]
 
 # Valu Eria
 
@@ -53,9 +53,5 @@ Menjambak rambut sendiri saat berpikir keras. Bicara tajam, presisi, akademis �
 > "Dengar ya. Kau itu cuma persamaan linear. Membosankan. Mudah diprediksi. Izinkan aku memperkenalkanmu pada konsep Chaos."
 > — Akademis
 
-> "Kau anak baik Kirana, kumohon, jangan panggil aku Lulu di hadapan orang lain."
-> — Kepada Kirana
 
-## Catatan Arsip H.A.
 
-> CLASSIFIED tentang Project Omega, FINI, Insiden Kampung Halaman, dan ritual ditahan sesuai dengan panduan Buku Merah.
