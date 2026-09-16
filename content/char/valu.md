@@ -11,22 +11,21 @@ draft: false
 
 *“Alam semesta itu simulasi Matematika yang logis. Aku di sini untuk membuktikannya.”*
 
-**Sang Penenun / Ratu Fraktal / Professor Valu.** 53 tahun. Dosen tamu Matematika & Fisika Teoretis di Sanggar Timur.
+**Sang Penenun / Ratu Fraktal / Professor Valu.** Dosen tamu Matematika & Fisika Teoretis di Sanggar Timur.
 
 ![](media/logo-valu.png)
 
 ## Identitas Dasar
 
-|  |  |
-|---|---|
-| **Nama Lengkap** | Valu Eria |
-| **Panggilan** | Professor Valu |
-| **Usia** | 53 tahun |
-| **Asal** | Nusa Tenggara Timur |
-| **Afiliasi** | Sanggar Timur |
-| **Klasifikasi** | Sang Penenun |
-| **Status** | ACTIVE — Teaching & Field Operations |
-| **Threat Level** | EXTREME |
+|                  |                                      |
+| ---------------- | ------------------------------------ |
+| **Nama Lengkap** | Valu Eria                            |
+| **Panggilan**    | Professor Valu                       |
+| **Asal**         | Nusa Tenggara Timur                  |
+| **Afiliasi**     | Sanggar Timur                        |
+| **Klasifikasi**  | Sang Penenun                         |
+| **Status**       | ACTIVE — Teaching & Field Operations |
+| **Threat Level** | EXTREME                              |
 
 ## Profil Fisik
 

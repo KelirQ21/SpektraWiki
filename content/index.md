@@ -2,13 +2,12 @@
 title: Spektra Universe
 tags: [home]
 ---
-S
 # Spektra Universe
 
 Di dunia ini, orang yang mengerti, merasakan, dan memahami bisa
 memanfaatkan hukum fundamental keberadaan untuk mengubah jalannya.
 
-Archive ini tumbuh bareng penulisnya. Belum jadi, dan memang tidak
+Archive ini tumbuh bersama penulisnya. Belum jadi, dan memang tidak
 diniatkan selesai.
 
 ## Mulai dari sini
