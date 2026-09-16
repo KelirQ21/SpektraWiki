@@ -6,7 +6,7 @@ tags:
   - kawanda
 description: Matahari dan Bulan, Anak Ayam, Cipi
 Umur: 5 tahun
-draft: true
+draft: false
 ---
 
 Draf adegan. Kirana dan Kawanda.
