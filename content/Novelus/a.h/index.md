@@ -16,6 +16,9 @@ Ia dikenal melalui karya-karya bergenre **misteri, liminal, dan abstrak**. Tulis
 ## Karya
 
 - **[[IKAN]]** — Sebuah karya dari sudut pandang seekor ikan yang mempertanyakan dunia yang selama ini dikenalnya.
+- [[Kursi Merah]]
+- [[Tulisan]]
+- [[Tiga Kursi Kosong]]
     
 
 ## Gaya
