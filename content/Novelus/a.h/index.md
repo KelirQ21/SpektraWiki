@@ -1,19 +1,12 @@
 ---
-
-title: A.H.  
+title: A.H.
 tags:
-
-- media
-    
-- penulis
-    
-- a.h.  
-    description: Penulis beralias A.H. yang dikenal melalui karya misteri, liminal, dan abstrak.  
-    draft: false
-    
-
+  - media
+  - penulis
+  - a.h.
+description: Penulis beralias A.H. yang dikenal melalui karya misteri, liminal, dan abstrak.
+draft: false
 ---
-
 # A.H.
 
 **A.H.** adalah alias seorang penulis dalam dunia Spektra Universe.
