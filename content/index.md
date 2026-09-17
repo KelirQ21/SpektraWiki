@@ -25,7 +25,7 @@ Dan jika ikan itu, dengan satu lompatan tunggal, mampu membawamu sejauh ini mema
 
 Kamu mulai berpikir, apa yang akan terjadi jika kamu menembusnya.
 
-Realitas yang kita huni, yang kita sentuh, yang kita rasakan, adalah permukaan dari sesuatu yang jauh lebih dalam, jauh lebih rumit, dan jauh tidak terjangkau dari yang pernah kita bayangkan.
+Realita yang kita huni, yang kita sentuh, yang kita rasakan, adalah permukaan dari sesuatu yang jauh lebih dalam, jauh lebih rumit, dan jauh tidak terjangkau dari yang pernah kita bayangkan.
 
 Menurutmu, Apa yang ikan itu rasakan saat dia melompat, menemukan permukaan dan itu bukan air.
 
@@ -48,8 +48,9 @@ Empat adegan: Matahari dan Bulan, Anak Ayam, Niat dan Cara, Cipi.
 ---
 
 *Catatan ditambahkan seiring arc yang bersangkutan terbit.*
->mereka yang mengerti, merasakan, dan memahami bisa
-memanfaatkan hukum fundamental keberadaan untuk mengubah jalannya.
 
->Archive ini tumbuh bersama penulisnya. Belum jadi, dan memang tidak
-diniatkan selesai.
+*Mereka yang mengerti, merasakan, dan memahami bisa
+memanfaatkan hukum fundamental keberadaan untuk mengubah jalannya.*
+
+*Archive ini tumbuh bersama penulisnya. Belum jadi, dan memang tidak
+diniatkan selesai.*
