@@ -13,7 +13,7 @@ Seekor ikan melompat, dan permukaan itu pecah.
 
 Sang ikan yang jatuh, meninggalkan riak-riak kecil — Mengubah segalanya. Refleksi yang tadinya sempurna bergoyang, terpiuh, memperlihatkan sesuatu yang berbeda di balik kepadatan air. 
 
-Tidak jauh darimu, terdapat perahu dan dayung yang tergelatak apa adanya. Penasaran. Kamu ingin mendekati ikan dan riak yang dibuatnya. Kamu menaiki dan mulai mendayung. Fokus arah matamu ke tempat tujuan dan perlahan kamu melihat perahu yang kamu dayung meninggalkan jejak riak yang berlikuk. Perahu itu bergerak perlahan, membelah permukaan yang semula kamu kira padat dan sederhana.
+Tidak jauh darimu, terdapat perahu dan dayung yang tergeletak apa adanya. Penasaran. Kamu ingin mendekati ikan dan riak yang dibuatnya. Kamu menaiki dan mulai mendayung. Fokus arah matamu ke tempat tujuan dan perlahan kamu melihat perahu yang kamu dayung meninggalkan jejak riak yang berlikuk. Perahu itu bergerak perlahan, membelah permukaan yang semula kamu kira padat dan sederhana.
 
 Hingga akhirnya kamu sampai di tengah danau tersebut.
 
@@ -21,13 +21,13 @@ Memperhatikan ke bawah kamu menemukan kegelapan tak berdasar, mengulurkan tangan
 
 Di bawahnya, ada dunia lain. Dunia yang gelap, yang dingin, yang penuh dengan arus-arus yang tak kasat mata, tempat ikan-ikan berenang dalam kegelapan abadi mereka sendiri dan batu-batu berdiri tegak di dasar yang tak pernah tersentuh cahaya matahari.
 
-Dan jika ikan itu, dengan satu lompatan tunggal, mampu membawamu sejauh ini memandang seluruh danau — bayangkan apa yang terjadi jika seluruh danau itu bukan air, melainkan realitas itu sendiri. Gelisah, kamu memperhatikan langit, kepalamu menelusuri ke berbagai arah. Hingga akhirnya kamu berhenti dan melihat ke atas. 
+Dan jika ikan itu, dengan satu lompatan tunggal, mampu membawamu sejauh ini memandang seluruh danau — bayangkan apa yang terjadi jika seluruh danau itu bukan air, melainkan realitas itu sendiri, realita yang di huni, yang di sentuh, yang dirasakan, adalah permukaan dari sesuatu yang jauh lebih dalam, jauh lebih rumit, dan jauh tidak terjangkau dari yang pernah kita bayangkan.
+
+Gelisah, kamu memperhatikan langit, kepalamu menelusuri ke berbagai arah. Hingga akhirnya kamu berhenti dan melihat ke atas. 
 
 Kamu mulai berpikir, apa yang akan terjadi jika kamu menembusnya.
 
-Realita yang kita huni, yang kita sentuh, yang kita rasakan, adalah permukaan dari sesuatu yang jauh lebih dalam, jauh lebih rumit, dan jauh tidak terjangkau dari yang pernah kita bayangkan.
-
-Menurutmu, Apa yang ikan itu rasakan saat dia melompat, menemukan permukaan dan itu bukan air.
+Menurutmu, apa yang ikan itu rasakan saat dia melompat, menemukan permukaan dan itu bukan air.
 
 ## Mulai dari sini
 
