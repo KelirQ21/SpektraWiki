@@ -30,16 +30,20 @@ Kamu mulai berpikir, apa yang akan terjadi jika kamu menembusnya.
 Menurutmu, apa yang ikan itu rasakan saat dia melompat, menemukan permukaan dan itu bukan air.
 
 ## Premis
-Spektra Universe — sebuah jagad di mana apa yang kita sebut "kenyataan" hanyalah salah satu lapisan dari struktur eksistensial yang berlapis-lapis. Di bawah permukaan yang kasat mata, ada arus-arus aktualisasi yang tak terlihat. Di dalam arus itu, ada kemungkinan-kemungkinan yang tak terhitung jumlahnya, terlipat rapi dalam geometri yang lebih tua dari waktu itu sendiri. Dan di kedalaman paling gelap — di celah-celah yang tak bisa dijangkau oleh observasi manapun — ada sesuatu yang menunggu.
+Kita hidup di era ketika anomali itu makin sering muncul. Bangunan yang tiba-tiba angker. Hutan yang berubah jadi labirin bagi siapa pun yang masuk tanpa persiapan. Distorsi yang dulu hanya ada di legenda, kini menyapa di jalanan kota besar.
 
-Kita hidup di era di mana anomali-anomali ini makin sering muncul. Bangunan yang tiba-tiba angker. Hutan yang berubah menjadi labirin bagi siapa pun yang masuk tanpa persiapan. Distorsi-distorsi yang sebelumnya hanya muncul dalam legenda kini menyapa di jalanan kota-kota besar. Dan di tengah itu semua, ada manusia-manusia yang mampu merasakan arus itu — yang menyebut diri mereka Praxion — dan ada institusi-institusi yang berdiri di antara publik dan anomali, menjaga keseimbangan dengan bahasa dan metode mereka sendiri.
+Dan di tengah itu, ada manusia yang mampu merasakan arusnya. Menyebut diri mereka **Praxion**. Ada pula institusi yang berdiri di antara publik dan anomali — masing-masing dengan bahasa dan metodenya sendiri.
 
-Ia adalah dunia eksplorasi — sebuah upaya untuk menggambarkan, dengan kata-kata yang setepat mungkin namun sesastra mungkin, bagaimana arsitektur jagad Spektra Universe bekerja tetapi mencapai kebenarannya. Mengapa ada dua jenis pemahaman berbeda menghasilkan kekuatan yang serupa. Bagaimana kesadaran manusia bisa menyentuh realitas dan mengubahnya. Mengapa beberapa orang mampu melihat apa yang lain tidak bisa. Dan — yang paling mengerikan — apa yang terjadi ketika seseorang mencoba menulis ulang realitas itu sendiri.
+Yang aneh: bahasa mereka berbeda, tapi hasilnya sama.
+
+Ada yang mendekatinya lewat matematika. Ada yang lewat laku dan wayang. Ada yang lewat bintang. Tidak satu pun mengakui kerangka yang lain, dan tidak satu pun sepenuhnya keliru.
+
+---
+
+_Mereka yang mengerti, merasakan, dan memahami bisa memanfaatkan hukum fundamental keberadaan untuk mengubah jalannya._
 
 Selamat datang.
 
-Di dunia ketika engkau mengerti, merasakan, dan memahami bisa
-memanfaatkan hukum fundamental keberadaan untuk mengubah jalannya.
 ## Mulai dari sini
 
 > "Mataharinya tidur?"
@@ -59,9 +63,5 @@ Empat adegan: Matahari dan Bulan, Anak Ayam, Niat dan Cara, Cipi.
 ---
 
 *Catatan ditambahkan seiring arc yang bersangkutan terbit.*
-
-*Mereka yang mengerti, merasakan, dan memahami bisa
-memanfaatkan hukum fundamental keberadaan untuk mengubah jalannya.*
-
 *Archive ini tumbuh bersama penulisnya. Belum jadi, dan memang tidak
 diniatkan selesai.*
