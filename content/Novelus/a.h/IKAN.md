@@ -1,5 +1,3 @@
-Aku gak tau ini puisi atau bukan. Ini yg kemarin secara spontan aku buat  
-  
 Aku adalah ikan.
 Dunia ku sangat luas.
 Disini ada keluarga.
