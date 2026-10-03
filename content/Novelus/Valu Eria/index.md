@@ -4,7 +4,6 @@ tags:
   - novelus
   - ValuEria
 description: Arsip karya dan kisah Valu Eria.
-draft: false
 ---
 # Valu Eria
 Pencarian dari pemahaman tanpa akhir
