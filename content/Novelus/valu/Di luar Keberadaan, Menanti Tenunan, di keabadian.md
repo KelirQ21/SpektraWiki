@@ -5,6 +5,7 @@ tags:
   - novelus
   - valu
   - teda-kawitu
+  - molanalu
 draft: false
 date: 2026-09-18
 ---
@@ -12,7 +13,7 @@ date: 2026-09-18
 
 "Sang Penenun Agung, kita mau ke mana?" tanya Valu, tangannya digenggam oleh Sang Penenun Agung, memandunya dengan hentakan kaki yang perlahan.
 
-Sang Penenun Agung berbalik arah menatap wajah kecil Valu. "Molanalu, Valu. Kita akan mengunjunginya."
+Sang Penenun Agung berbalik arah menatap wajah kecil Valu. "[[Molanalu]], Valu. Kita akan mengunjunginya."
 
 "Kalau sudah di sana, kita mau ngapain?" Penasaran nadanya, ia mengikuti dari belakang.
 
