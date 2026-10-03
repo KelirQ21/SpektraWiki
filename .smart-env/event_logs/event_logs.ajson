@@ -1,0 +1,13 @@
+
+"event_logs:source:initial_scan_started": {"key":"source:initial_scan_started","ct":1,"first_at":1790141069899,"last_at":1790141069899,"class_name":"EventLog","event_sources":{"init_items":1}},
+"event_logs:settings:changed": {"key":"settings:changed","ct":14,"first_at":1790141069915,"last_at":1790141073237,"class_name":"EventLog"},
+"event_logs:source:initial_scan_completed": {"key":"source:initial_scan_completed","ct":1,"first_at":1790141069998,"last_at":1790141069998,"class_name":"EventLog","event_sources":{"init_items":1}},
+"event_logs:collection:load_started": {"key":"collection:load_started","ct":5,"first_at":1790141073192,"last_at":1790141073235,"class_name":"EventLog"},
+"event_logs:collection:load_halted": {"key":"collection:load_halted","ct":4,"first_at":1790141073193,"last_at":1790141073234,"class_name":"EventLog"},
+"event_logs:model:changed": {"key":"model:changed","ct":1,"first_at":1790141073237,"last_at":1790141073237,"class_name":"EventLog"},
+"event_logs:collection:load_completed": {"key":"collection:load_completed","ct":1,"first_at":1790141073248,"last_at":1790141073248,"class_name":"EventLog"},
+"event_logs:sources:import_started": {"key":"sources:import_started","ct":1,"first_at":1790141073249,"last_at":1790141073249,"class_name":"EventLog","event_sources":{"process_source_import_queue":1}},
+"event_logs:sources:imported": {"key":"sources:imported","ct":570,"first_at":1790141073252,"last_at":1790141082763,"class_name":"EventLog"},
+"event_logs:sources:import_progress": {"key":"sources:import_progress","ct":6,"first_at":1790141074588,"last_at":1790141082763,"class_name":"EventLog","event_sources":{"process_source_import_queue":6}},
+"event_logs:embedding:started": {"key":"embedding:started","ct":1,"first_at":1790141113556,"last_at":1790141113556,"class_name":"EventLog","event_sources":{"process_embed_queue":1}},
+"event_logs:embedding:progress": {"key":"embedding:progress","ct":2,"first_at":1790141115117,"last_at":1790141121017,"class_name":"EventLog","event_sources":{"process_embed_queue":2}},

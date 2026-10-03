@@ -29,19 +29,19 @@ draft: false
 
 ## Profil Fisik
 
-|  |  |
-|---|---|
-| **Tinggi** | 160 cm — "Pusat massa optimal" |
-| **Postur** | Compact, athletic, stocky |
-| **Kulit** | Abu-abu gelap — efek sengkala berlebihan |
-| **Rambut** | Hitam pendek berantakan, curly |
-| **Mata** | Burnt orange berpijar — pupil bergerak ikut sekuens matematika |
+|            |                                                                |
+| ---------- | -------------------------------------------------------------- |
+| **Tinggi** | 160 cm — "Pusat massa optimal"                                 |
+| **Postur** | Compact, athletic, stocky                                      |
+| **Kulit**  | Abu-abu gelap — efek sengkala berlebihan                       |
+| **Rambut** | Hitam pendek berantakan, curly                                 |
+| **Mata**   | Burnt orange berpijar — pupil bergerak ikut sekuens matematika |
 
 Valu adalah wanita compact 53 tahun dengan kulit abu-abu gelap seperti batu vulkanik. Rambutnya selalu berantakan karena kebiasaan menjambak saat stress.
 
 ## Fashion
 
-Inner sleeveless black turtleneck, outer jas lab putih dengan teal accent di dalam, bottom urban taktikal pleated skirt hitam, combat boots hitam berat. Kalung rantai tipis dengan Shell Mandelbrot.
+Inner sleeveless black turtleneck, outer jas lab putih dengan teal accent di dalam, bottom urban taktikal pleated skirt hitam, combat boots hitam berat. Kalung rantai tipis dengan Shell Mandelbrot dan Jam tangan Casio Fs-02 dengan EL Backlight Teal dan Amber bergantian yang sudah di modifikasi olehnya..
 
 ## Behavioral Tells
 
