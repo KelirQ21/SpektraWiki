@@ -119,4 +119,4 @@ Pertanyaan itu menggantung di antara mereka, Kirana masih mengelus Cipi tanpa me
 
 Kawanda hanya mengangguk, dan ia melihat punggung Kirana dengan tatapan wajah yang sedih.
 
-*"Seandainya Ayah tahu, Ayah juga akan memberitahumu, Kirana..."*
+*"Seandainya Ayah tahu, aku sudah memberitahumu, Kirana..."*
