@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Informational Bounds for Localized Praxion Domains
 
 ## 1. Introduction
