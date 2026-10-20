@@ -4,7 +4,7 @@ tags:
   - kirana
   - kawanda
   - novelus
-description: Sebutir kerang biru, teror di balik kabut, dan api seorang ayah yang menari membentengi malam.
+description: Ia, sesuatu, dan ada yang datang.
 date: 2026-10-20
 ---
 
@@ -47,7 +47,7 @@ Ia menutup mata kuat-kuat.
 Aliran keringat mengalir pada pipinya.
 
 Tangan itu meraih wajahnya.  
-Ia bergeser sedikit,  
+Dengan sisa tenaga, ia memiringkan wajah sedikit,
 Dan tangan itu melewati sisi kepalanya,  
 Menyentuh rambut dan membelai.  
 Kuku tajam keluar dari jemari.  
@@ -108,10 +108,16 @@ Diusapnya puncak kepala sang putri dengan nestapa.
 
 "Terima kasih, Sayang... ini indah sekali, tapi janji pada Ayah... jangan pernah melakukan ini sendirian lagi di malam hari. Membuat Ayah cemas dan penuh dilema..."
 
+“Kirana janji...” suaranya patah,  
+“Hic...” tangis yang sejak tadi ditahan akhirnya pecah.  
+Kesenduan melewati keheningan malam,  
+Tangannya digenggam erat sang ayah,  
+Sementara api berjaga, dan cahaya biru berpendar di telapak satunya.
+
 Usapan hangat mengalir ke seluruh dada,  
 Menyembuhkan lelah, mengikis sisa duka.  
 Kelopak mata Kirana kian memberat,  
-Kantuk akhirnya datang merapat.
+Kantuk akhirnya datang merapat. 
 
 Kawanda merengkuhnya ke dalam gendongan,  
 Melangkah pelan menembus heningnya rimba.  
