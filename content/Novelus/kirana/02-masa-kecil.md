@@ -87,13 +87,17 @@ Kirana mengerutkan kening, belum sepenuhnya percaya. Bagi Kawanda, kalimat itu s
 
 "Mending jangan ngomong, kalau gak habis dicubit." 
 
-Kawanda terbahak. Tawa yang panjang, tawa yang bergetar sampai ke dada. Kirana, yang masih duduk di pangkuan ayahnya, ikut tertawa sambil memandangi wajah ayahnya lebih lama dari biasanya. Tatapan yang hangat. Tatapan seorang anak yang belum tahu, bahwa suatu hari nanti ia akan merindukan momen sesederhana ini lebih dari apa pun di dunia. Di luar jendela, langit pelan-pelan berganti warna; halaman pun senyap, dan rumah hanya diisi suara dua orang tertawa, satu yang besar, satu yang kecil.
+Kawanda terbahak. “Hahahaha! Owalahhhh... Lalu?”
 
-"Hmm... Ayah."
+Kirana tidak langsung menjawab. Di pangkuan ayahnya, ia memandangi wajah Kawanda yang masih tertawa sedikit lebih lama. Ada kehangatan dalam tatapannya, ia belum mengerti bagaimana menjelaskannya, matanya berbinar dan bibirnya naik tersenyum memikirkan.
 
-"Maka... Kirana."
+“Hmm…”
 
-"Sayang Ayahhhh!"
+“Ayah.”
+
+“Maka... Kirana.”
+
+“Sayang Ayah!”
 
 Ia meringkuk lebih dalam di pangkuan itu, seperti kucing kecil yang baru menemukan tempat paling hangat di dunia.
 
