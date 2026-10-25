@@ -36,7 +36,7 @@ Napasnya tertarik patah-patah, satu tangannya menutupi mulut rapat-rapat agar su
 Sesuatu semakin dekat.  
 Gemerisik daun semakin keras.  
 Cahaya rembulan tertutup perlahan.  
-Ia berusaha bergeser menjauh,  
+Ia beringsut, kian terdesak,  
 Tangan satunya keras menggenggam yang berharga,  
 Yang satunya menyembunyikan ketakutan agar tidak diperhatikan.
 
@@ -46,16 +46,16 @@ Hebat berdetak jantungnya.
 Ia menutup mata kuat-kuat.  
 Aliran keringat mengalir pada pipinya.
 
-Tangan itu meraih wajahnya.  
-Dengan sisa tenaga, ia memiringkan wajah sedikit,
-Dan tangan itu melewati sisi kepalanya,  
-Menyentuh rambut dan membelai.  
-Kuku tajam keluar dari jemari.  
-Sedikit darah mengalir di bawah telinganya.
+Tangan itu meraih wajahnya. 
+Dengan sisa tenaga, ia memiringkan kepala, 
+Dan jemari itu melewati sisi wajahnya, 
+Menyusuri rambut, membelai perlahan. 
+Kuku-kuku hitam menjulur tajam. 
+Sedikit darah mengalir di bawah telinga. 
 
 Gemetar hebat tubuhnya, air mata keluar tanpa diminta.  
 Berkata hatinya:  
-_"Ayah, Tolong aku."_
+_"Ayah, engkau dimana?."_
 
 ---
 
@@ -68,9 +68,10 @@ Pada ruang,
 Pada waktu,  
 Ada yang akan datang.
 
-Tangan itu merasakan kehangatan yang menusuk.  
-Ada lidah api yang menari di atas daun tanpa terbakar,  
-Dan sesuatu mulai kembali ke dalam gelap.
+Tangan itu tersentak oleh panas yang menyengat.  
+Lidah-lidah api menari di antara dedaunan,  
+Tanpa membakar yang disentuhnya.  
+Sesuatu itu surut, kembali ke dalam gelap.
 
 _"Pulanglah. Ia bukan milikmu."_
 
@@ -120,8 +121,10 @@ Kelopak mata Kirana kian memberat,
 Kantuk akhirnya datang merapat. 
 
 Kawanda merengkuhnya ke dalam gendongan,  
-Melangkah pelan menembus heningnya rimba.  
-Bibirnya bergumam pelan merajut tembang penenang,  
+Melangkah pelan menembus heningnya rimba. 
+Hentakan kaki berdayu perlahan.
+Bibirnya bergumam merajut tembang penenang,  
+
 _Ono kidung rumekso ing wengi..._
 
 Di balik mata Kirana yang hampir terpejam,  
